@@ -1,0 +1,1389 @@
+{
+ "url": "http://localhost:5173",
+ "at": "2026-11-10T07:55:01.507Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.44,
+    0.91,
+    0.43,
+    0.59,
+    0.71,
+    0.49
+   ],
+   "motion": {
+    "elements": 19,
+    "css": 19,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 4892,
+     "screens": 5.4,
+     "words": 458,
+     "img": 5,
+     "video": 0,
+     "canvas": 0,
+     "svg": 12,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 3,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 3,
+     "pictureSamples": [
+      "creator-studio.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "They comment. You connect.",
+     "words": 4,
+     "chars": 26,
+     "lines": 2,
+     "size": 74.9,
+     "vw": 5.2,
+     "font": "Manrope",
+     "weight": 800,
+     "tracking": -0.065,
+     "leading": 1.05,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.45,
+     "top": 213,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "They comment. You connect.",
+     "words": 4,
+     "lines": 2,
+     "size": 74.9,
+     "font": "Manrope"
+    },
+    "headings": [
+     {
+      "text": "They comment. You connect.",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 74.9,
+      "vw": 5.2,
+      "font": "Manrope",
+      "weight": 800,
+      "tracking": -0.065,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.45,
+      "top": 213,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Your Reel. Your reply.",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 60.5,
+      "vw": 4.2,
+      "font": "Manrope",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.45,
+      "top": 910,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Less copying. More control.",
+      "words": 4,
+      "chars": 27,
+      "lines": 2,
+      "size": 60.5,
+      "vw": 4.2,
+      "font": "Manrope",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 2046,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Free.",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 100,
+      "vw": 6.9,
+      "font": "Manrope",
+      "weight": 700,
+      "tracking": -0.06,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.15,
+      "top": 2707,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Start with one Reel.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 60.5,
+      "vw": 4.2,
+      "font": "Manrope",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 2794,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Before you begin.",
+      "words": 3,
+      "chars": 17,
+      "lines": 2,
+      "size": 60.5,
+      "vw": 4.2,
+      "font": "Manrope",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.28,
+      "top": 3308,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "We're here to help.",
+      "words": 4,
+      "chars": 19,
+      "lines": 2,
+      "size": 60.5,
+      "vw": 4.2,
+      "font": "Manrope",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 3889,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 7,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.8,
+       "mono": false
+      },
+      {
+       "family": "DM Sans",
+       "share": 0.2,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      20,
+      24,
+      61,
+      75,
+      100
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 16,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 15.8
+     },
+     "measureChars": 65,
+     "max": {
+      "size": 100,
+      "vw": 6.9,
+      "font": "Manrope",
+      "text": "Free."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f5f6fb",
+     "bodyBgHsl": {
+      "h": 230,
+      "s": 0.43,
+      "l": 0.97
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f5f6fb",
+       "top": 0,
+       "hsl": {
+        "h": 230,
+        "s": 0.43,
+        "l": 0.97
+       }
+      },
+      {
+       "color": "#0b1d57",
+       "top": 810,
+       "hsl": {
+        "h": 226,
+        "s": 0.78,
+        "l": 0.19
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 3799,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0b1d57",
+       "share": 0.61
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.28
+      },
+      {
+       "color": "#4f5b79",
+       "share": 0.07
+      },
+      {
+       "color": "#205c42",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#ff7a32",
+      "hsl": {
+       "h": 21,
+       "s": 1,
+       "l": 0.6
+      },
+      "fg": "#0b1d57"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": 0,
+     "height": 57,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Get started free"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 6,
+     "fixed": true,
+     "height": 96,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "dm sans",
+     "manrope"
+    ]
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.54,
+    0.83,
+    0.73,
+    0.52,
+    0.63
+   ],
+   "motion": {
+    "elements": 19,
+    "css": 19,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 4933,
+     "screens": 4.8,
+     "words": 456,
+     "img": 5,
+     "video": 0,
+     "canvas": 0,
+     "svg": 12,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 3,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 3,
+     "pictureSamples": [
+      "creator-studio.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "They comment. You connect.",
+     "words": 4,
+     "chars": 26,
+     "lines": 2,
+     "size": 48,
+     "vw": 6.3,
+     "font": "Manrope",
+     "weight": 800,
+     "tracking": -0.065,
+     "leading": 1.05,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.45,
+     "top": 230,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "They comment. You connect.",
+     "words": 4,
+     "lines": 2,
+     "size": 48,
+     "font": "Manrope"
+    },
+    "headings": [
+     {
+      "text": "They comment. You connect.",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Manrope",
+      "weight": 800,
+      "tracking": -0.065,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.45,
+      "top": 230,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Your Reel. Your reply.",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 38,
+      "vw": 4.9,
+      "font": "Manrope",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 942,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Less copying. More control.",
+      "words": 4,
+      "chars": 27,
+      "lines": 2,
+      "size": 38,
+      "vw": 4.9,
+      "font": "Manrope",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 1993,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Free.",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 64,
+      "vw": 8.3,
+      "font": "Manrope",
+      "weight": 700,
+      "tracking": -0.06,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.18,
+      "top": 2669,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Start with one Reel.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 38,
+      "vw": 4.9,
+      "font": "Manrope",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 2739,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Before you begin.",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 38,
+      "vw": 4.9,
+      "font": "Manrope",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 3200,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "We're here to help.",
+      "words": 4,
+      "chars": 19,
+      "lines": 2,
+      "size": 38,
+      "vw": 4.9,
+      "font": "Manrope",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 3909,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 7,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.8,
+       "mono": false
+      },
+      {
+       "family": "DM Sans",
+       "share": 0.2,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      16,
+      20,
+      24,
+      38,
+      48,
+      64
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 16,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 15.8
+     },
+     "measureChars": 33,
+     "max": {
+      "size": 64,
+      "vw": 8.3,
+      "font": "Manrope",
+      "text": "Free."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f5f6fb",
+     "bodyBgHsl": {
+      "h": 230,
+      "s": 0.43,
+      "l": 0.97
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f5f6fb",
+       "top": 0,
+       "hsl": {
+        "h": 230,
+        "s": 0.43,
+        "l": 0.97
+       }
+      },
+      {
+       "color": "#0b1d57",
+       "top": 848,
+       "hsl": {
+        "h": 226,
+        "s": 0.78,
+        "l": 0.19
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 3819,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0b1d57",
+       "share": 0.61
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.29
+      },
+      {
+       "color": "#4f5b79",
+       "share": 0.07
+      },
+      {
+       "color": "#205c42",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#ff7a32",
+      "hsl": {
+       "h": 21,
+       "s": 1,
+       "l": 0.6
+      },
+      "fg": "#0b1d57"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": 0,
+     "height": 57,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Get started free"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 3200
+      }
+     ]
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 6,
+     "fixed": true,
+     "height": 96,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "dm sans",
+     "manrope"
+    ]
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.6,
+    0.87,
+    0.98,
+    0.62,
+    0.89,
+    0.73,
+    0.84,
+    0.53
+   ],
+   "motion": {
+    "elements": 19,
+    "css": 19,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 6713,
+     "screens": 8,
+     "words": 450,
+     "img": 5,
+     "video": 0,
+     "canvas": 0,
+     "svg": 12,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 3,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 3,
+     "pictureSamples": [
+      "creator-studio.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "They comment. You connect.",
+     "words": 4,
+     "chars": 26,
+     "lines": 2,
+     "size": 41.3,
+     "vw": 10.6,
+     "font": "Manrope",
+     "weight": 800,
+     "tracking": -0.06,
+     "leading": 1.05,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.89,
+     "top": 118,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "They comment. You connect.",
+     "words": 4,
+     "lines": 2,
+     "size": 41.3,
+     "font": "Manrope"
+    },
+    "headings": [
+     {
+      "text": "They comment. You connect.",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 41.3,
+      "vw": 10.6,
+      "font": "Manrope",
+      "weight": 800,
+      "tracking": -0.06,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 118,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Your Reel. Your reply.",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Manrope",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 1261,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Connect Instagram",
+      "words": 2,
+      "chars": 17,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Manrope",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 1822,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Make it yours",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Manrope",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 1937,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Follow each reply",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Manrope",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 2052,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Less copying. More control.",
+      "words": 4,
+      "chars": 27,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Manrope",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 2666,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Share your next launch",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "DM Sans",
+      "weight": 700,
+      "tracking": -0.03,
+      "leading": 1.55,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.65,
+      "top": 3183,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Start with one Reel.",
+      "words": 4,
+      "chars": 20,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Manrope",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 3773,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Free.",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 76,
+      "vw": 19.5,
+      "font": "Manrope",
+      "weight": 700,
+      "tracking": -0.06,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 4067,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Before you begin.",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Manrope",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 4580,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "We're here to help.",
+      "words": 4,
+      "chars": 19,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Manrope",
+      "weight": 800,
+      "tracking": -0.05,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 5258,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Send us a note",
+      "words": 4,
+      "chars": 14,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Manrope",
+      "weight": 700,
+      "tracking": -0.035,
+      "leading": 1.05,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 5650,
+      "tag": "h3",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 12,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope",
+       "share": 0.8,
+       "mono": false
+      },
+      {
+       "family": "DM Sans",
+       "share": 0.2,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      16,
+      18,
+      20,
+      24,
+      40,
+      41,
+      76
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope",
+      "size": 16,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 15.8
+     },
+     "measureChars": 38,
+     "max": {
+      "size": 76,
+      "vw": 19.5,
+      "font": "Manrope",
+      "text": "Free."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f5f6fb",
+     "bodyBgHsl": {
+      "h": 230,
+      "s": 0.43,
+      "l": 0.97
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f5f6fb",
+       "top": 0,
+       "hsl": {
+        "h": 230,
+        "s": 0.43,
+        "l": 0.97
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 549,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#0b1d57",
+       "top": 1197,
+       "hsl": {
+        "h": 226,
+        "s": 0.78,
+        "l": 0.19
+       }
+      },
+      {
+       "color": "#192e68",
+       "top": 2207,
+       "hsl": {
+        "h": 224,
+        "s": 0.61,
+        "l": 0.25
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0b1d57",
+       "share": 0.61
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.29
+      },
+      {
+       "color": "#4f5b79",
+       "share": 0.07
+      },
+      {
+       "color": "#205c42",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#ff7a32",
+      "hsl": {
+       "h": 21,
+       "s": 1,
+       "l": 0.6
+      },
+      "fg": "#0b1d57"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": 0,
+     "height": 57,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Get started free"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 76,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "dm sans",
+     "manrope"
+    ]
+   },
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "no-real-pictures",
+   "width": 1440,
+   "message": "Only 1 real photograph(s) or clip(s); the rest are interface fragments.",
+   "fix": "Add two or more real pictures of the customer's world from scripts/assets.mjs, not stock of people at laptops."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/ngogaadolphe/Desktop/kurikira_fn/.taste-skill/inspect/desktop-fold.jpg",
+   "pages": [
+    "/Users/ngogaadolphe/Desktop/kurikira_fn/.taste-skill/inspect/desktop-page-01.jpg",
+    "/Users/ngogaadolphe/Desktop/kurikira_fn/.taste-skill/inspect/desktop-page-02.jpg"
+   ]
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/ngogaadolphe/Desktop/kurikira_fn/.taste-skill/inspect/tablet-fold.jpg",
+   "pages": [
+    "/Users/ngogaadolphe/Desktop/kurikira_fn/.taste-skill/inspect/tablet-page-01.jpg"
+   ]
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/ngogaadolphe/Desktop/kurikira_fn/.taste-skill/inspect/mobile-fold.jpg",
+   "pages": [
+    "/Users/ngogaadolphe/Desktop/kurikira_fn/.taste-skill/inspect/mobile-page-01.jpg"
+   ]
+  }
+ ]
+}
